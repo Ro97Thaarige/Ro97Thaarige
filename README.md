@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ro97Thaarige
+- 👀 I’m interested in all sciences especially Mathematics and Informatic science ...
+- 🌱 I’m currently learning operational research...
+- 💞️ I’m looking to collaborate on artificial intelligence...
+- 📫 How to reach me mameriamina405@gmail.com
+                     @Rocasta97 = twitter /
+                     Ro Thaarige = Facebook /
+                     ro_thaarige = instagram...
+
+<!---
+Ro97Thaarige/Ro97Thaarige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
